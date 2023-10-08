@@ -1,2 +1,2 @@
-# best-resume-ever
-My resume (sooo good)
+# Simple Resume
+Resume code + downloadable
